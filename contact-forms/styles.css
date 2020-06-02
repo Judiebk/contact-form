@@ -20,9 +20,10 @@ input[type=submit]{
   width:100%;
   background-color:  blue;
   margin-top: 1rem;
+  font-size: 30px;
 }
 body{
-  background-color:red;
+  background-color:rgb(129, 129, 127);
   text-align: center;
 }
 form
@@ -30,4 +31,11 @@ form
     display:block;
     margin-left: auto;
     margin-right: auto;
+}
+body{
+  color:rgb(106, 171, 223);
+}
+p{
+  margin-left: 300px;
+  margin-right: 300px;
 }
